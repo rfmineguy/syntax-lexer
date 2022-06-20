@@ -3,4 +3,4 @@ A simple system for lexing a file for certain sequences making use of the c++ re
 
 
 # build
-* make run
+* `make run`
