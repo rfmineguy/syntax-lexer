@@ -1,0 +1,26 @@
+fun main(byte a, word b) -> qword {
+    word w = 53452;
+    word b = 331;
+    byte q = 0b0101100;
+    byte b = 4;
+    dword a = 5;
+    dword b = 0x35;
+    b = 2;
+    for (byte i = 0; i <= 5; i++) {
+        if (i == w && (i < 3 || b == 1)) {
+
+        }
+    }
+    ret 93;
+    ret q;
+}
+
+fun add(byte b, word q) -> word {
+    word result = a + b;
+    ret result;
+}
+
+fun mul(byte a, byte b) -> word {
+    word result = a * b;
+    ret result;
+}
